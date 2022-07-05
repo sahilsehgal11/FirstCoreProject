@@ -13,7 +13,7 @@ namespace PraticeProject
     {
         public static void Main(string[] args)
         {
-            //some changes
+            //lets do some changes
             CreateHostBuilder(args).Build().Run();
         }
 
